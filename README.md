@@ -1,5 +1,7 @@
 ### 안녕하세요. 신입 개발자 김태완 입니다. 👋
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 <!--
 **twn2021/twn2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
