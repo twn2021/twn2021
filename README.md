@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <div><h3>✨Repositories Guide✨</h3></div>
-<ul> insta
+<ul><h3>🔖insta</h3>
 <li>REACT 제작</li>
-<li>REACT {Routes,useState,Link,useRef,styled-components}활용</li>
+<li>REACT{Routes,useState,Link,useRef,useEffect,styled-components}활용</li>
 </ul>
 <ul> YOUTUBE
 <li>dd</li>
