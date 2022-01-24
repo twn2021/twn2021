@@ -11,23 +11,22 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <div><h3>📈 Repositories Guide</h3></div>
-<ul><h3>✨insta</h3>
+<ul><h3>✨ insta</h3>
 <li>react 제작</li>
 <li>{Routes, useState, Link, useRef, useEffect, styled-components}활용</li>
-<li>hooks, modal, dropdown, data</li>
 <li>회원가입 메뉴 {아이디 길이, 비밀번호 재확인}</li>
 <li>메인페이지 {data 로 아이디, 댓글, 이미지 관리}</li>
-  <li>새 게시물 만들기 {파일 이미지 업로드} </li>
-  <li>좋아요 확인 & 프로필 드롭다운</li>
-  <li>프로필 페이지 </li>
+<li>새 게시물 modal {파일 이미지 업로드} </li>
+<li>좋아요 확인 & 프로필 dropdown</li>
+<li>프로필 페이지 </li>
 </ul>
-<ul><h3>🎉youtube</h3>
+<ul><h3>🎉 youtube</h3>
 <li>react 제작</li>
 <li>{useState, useRef, useEffect, styled-components}활용</li>
-<li>hooks, modal, dropdown, data</li>
-<li>좌측 메뉴 사이드바 기능</li>
-<li>사이드바 내 메뉴 접기 기능</li> 
-<li>우측 프로필 드롭다운 기능</li>
+<li>좌측 메뉴 sidebar 기능</li>
+<li>컨텐츠 {data 로 타이틀, 프로필, 이미지 관리}</li>
+<li>sidebar 메뉴 접기 기능</li> 
+<li>우측 프로필 dropdow</li>
 </ul>
 
 🎨📈🔖
