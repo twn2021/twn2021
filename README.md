@@ -28,8 +28,12 @@
 <li>sidebar 메뉴 접기 기능</li> 
 <li>우측 프로필 dropdow</li>
 </ul>
+<ul><h3>🎨 fanpage</h3>
+<li>javascript 제작</li>
+<li>이미지 슬라이드 button</li>
+<li>페이지 끝에서 처음으로 복귀 button </li>
+</ul>
 
-🎨📈🔖
 <!--
 **twn2021/twn2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
