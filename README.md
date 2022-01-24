@@ -12,8 +12,10 @@
 </div>
 <div><h3>✨Repositories Guide✨</h3></div>
 <ul><h3>🔖insta</h3>
-<li>REACT 제작</li>
-<li>REACT{Routes,useState,Link,useRef,useEffect,styled-components}활용</li>
+<li>react 기반 제작</li>
+<li>react {Routes,useState,Link,useRef,useEffect,styled-components}활용</li>
+<li>react modal</li>
+<li>react dropdown</li>
 </ul>
 <ul> YOUTUBE
 <li>dd</li>
