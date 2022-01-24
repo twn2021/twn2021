@@ -23,10 +23,10 @@
 <ul><h3>🎉 youtube</h3>
 <li>react 제작</li>
 <li>{useState, useRef, useEffect, styled-components}활용</li>
-<li>좌측 메뉴 sidebar 기능</li>
+<li>메뉴 sidebar 기능</li>
 <li>컨텐츠 {data 로 타이틀, 프로필, 이미지 관리}</li>
 <li>sidebar 메뉴 접기 기능</li> 
-<li>우측 프로필 dropdow</li>
+<li>프로필 dropdow</li>
 </ul>
 <ul><h3>🎨 fanpage</h3>
 <li>javascript 제작</li>
