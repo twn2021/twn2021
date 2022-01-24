@@ -10,12 +10,16 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<div><h3>✨Repositories Guide✨</h3></div>
-<ul><h3>🔖insta</h3>
+<div><h3>📈Repositories Guide</h3></div>
+<ul><h3>✨insta</h3>
 <li>react 제작</li>
 <li>{Routes, useState, Link, useRef, useEffect, styled-components}활용</li>
 <li>hooks, modal, dropdown, data</li>
-<li>ff</li>
+<li>회원가입 메뉴 {아이디 길이, 비밀번호 재확인}</li>
+<li>메인페이지 {data 로 아이디, 댓글, 이미지 관리}</li>
+  <li>새 게시물 만들기 {파일 이미지 업로드} </li>
+  <li>좋아요 확인 & 프로필 드롭다운</li>
+  <li>프로필 페이지 </li>
 </ul>
 <ul><h3>🎉youtube</h3>
 <li>react 제작</li>
@@ -26,7 +30,7 @@
 <li>우측 프로필 드롭다운 기능</li>
 </ul>
 
-
+🎨📈🔖
 <!--
 **twn2021/twn2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
