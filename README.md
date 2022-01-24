@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 신입 개발자 김태완 입니다. 👋
 
 <!--
 **twn2021/twn2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
