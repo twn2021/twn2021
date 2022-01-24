@@ -14,7 +14,7 @@
 <ul><h3>✨ insta</h3>
 <li>react 제작</li>
 <li>{Routes, useState, Link, useRef, useEffect, styled-components}활용</li>
-<li>회원가입 메뉴 {아이디 길이, 비밀번호 재확인}</li>
+<li>회원가입 메뉴 {아이디 길이, 비밀번호 확인 기능}</li>
 <li>메인페이지 {data 로 아이디, 댓글, 이미지 관리}</li>
 <li>새 게시물 modal {파일 이미지 업로드} </li>
 <li>좋아요 확인 & 프로필 dropdown</li>
