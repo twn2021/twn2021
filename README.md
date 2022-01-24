@@ -7,7 +7,7 @@ https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
   
 <img src="https://img.shields.io/style=flat-square&logo=Andrdddddoid&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-#F7DF1E?style=flat-square&logo=HTML&logoColor=white"/>
 
 
 
