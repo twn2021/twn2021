@@ -21,6 +21,9 @@
 <li>react 제작</li>
 <li>{useState, useRef, useEffect, styled-components}활용</li>
 <li>hooks, modal, dropdown, data</li>
+<li>좌측 메뉴 사이드바 기능</li>
+<li>사이드바 내 메뉴 접기 기능</li> 
+<li>우측 프로필 드롭다운 기능</li>
 </ul>
 
 
