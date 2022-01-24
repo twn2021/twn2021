@@ -1,8 +1,8 @@
 ### 안녕하세요. 신입 개발자 김태완 입니다. 👋
 
-<style=flat-square&logo=Android&logoColor=white"/>
 
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 
