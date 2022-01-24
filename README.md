@@ -1,6 +1,6 @@
 <div align=center><h2>안녕하세요. 신입 개발자 김태완 입니다</h2></div>
 
-<div align=center><h3>📚 STACKS</h3></div>
+<div><h3>📚 STACKS</h3></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
