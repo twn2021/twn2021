@@ -12,14 +12,15 @@
 </div>
 <div><h3>✨Repositories Guide✨</h3></div>
 <ul><h3>🔖insta</h3>
-<li>react 기반 제작</li>
-<li>react {Routes,useState,Link,useRef,useEffect,styled-components}활용</li>
-<li>react modal</li>
-<li>react dropdown</li>
+<li>react 제작</li>
+<li>{Routes, useState, Link, useRef, useEffect, styled-components}활용</li>
+<li>hooks, modal, dropdown, data</li>
+<li>ff</li>
 </ul>
-<ul> YOUTUBE
-<li>dd</li>
-<li>dd</li>
+<ul><h3>🎉youtube</h3>
+<li>react 제작</li>
+<li>{useState, useRef, useEffect, styled-components}활용</li>
+<li>hooks, modal, dropdown, data</li>
 </ul>
 
 
