@@ -33,7 +33,7 @@
 <li>이미지 슬라이드 button</li>
 <li>페이지 끝에서 처음으로 복귀 button </li>
 </ul>
-<ul><h3>🌱 apple_home</h3>
+<ul><h3>🌱 AppleHome</h3>
 <li>javascript 제작</li>
 </ul>
 
